@@ -7,7 +7,6 @@ on:
     branches:
       - develop
       - staging
-      - booyeah
 
 # Jobs to carry out
 jobs:
